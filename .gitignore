@@ -1,0 +1,13 @@
+# Unreal Engine Temp Files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+.idea/
+*.sln
+*.suo
+
+# Content 폴더 안의 무거운 바이너리 에셋(.uasset, .umap 등) 제외
+Content/
